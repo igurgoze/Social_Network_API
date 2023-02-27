@@ -3,6 +3,8 @@
 ## Description
 Back-End Mongoose Application that makes use of insomnia tool to mimic a social media site.
 
+[DEMO VIDEO](https://drive.google.com/file/d/1TqNGu-gtuyHUJJDMPbDafOfASaTjICwQ/view)
+
 ## Table of contents
 
 - [Installation](#Insallation)
@@ -11,21 +13,16 @@ Back-End Mongoose Application that makes use of insomnia tool to mimic a social 
 
 - [Contribution](#Contributing)
 
-- [Test](#Test)
-
 - [Questions](#Questions)
 
 ## Installation
 npm install
 
 ## Usage
-npm run seed to drop database, then node server to connect server.
+`npm run seed` to drop/create database, then `node server` to connect and start server. Then you should be good to start your social media journey!
 
 ## Contributing
 Ian Gurgoze
-
-## Test
-
 
 ## Questions
 
